@@ -1,5 +1,3 @@
-Göreviniz:
-
 Python'da fonksiyonlar ve döngüler kavramlarını kullanarak, aşağıdaki işlemleri gerçekleştiren bir program yazmanız gerekmektedir:
 
 Noktaların Tanımlanması:
